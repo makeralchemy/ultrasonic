@@ -8,7 +8,7 @@ a Raspberry Pi using Python.
 
 ## Usage Instructions
 
-*ultrasonic.py* is intended to be executed from the command line, inside a shell script, or inside a boot script like *rc.local*.
+*ultrasonic.py* is intended to be executed from the command line.
 
 ### Command Line Usage:
 
